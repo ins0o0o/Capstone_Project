@@ -153,4 +153,5 @@ void main()
 
 	print_tree(parent, V);
 	fclose(fp);
+	printf("\n");
 }
